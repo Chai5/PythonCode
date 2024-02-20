@@ -1,5 +1,6 @@
 commands for upload files in git
 
+git clone <https>
 git status
 git branch
 git add <file.name>
